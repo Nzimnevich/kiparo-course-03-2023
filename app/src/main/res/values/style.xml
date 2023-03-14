@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+    <style name="Button">
+        <item name="android:paddingStart">50dp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+
+    <style name="Button.ButtonPlay">
+        <item name="android:drawableLeft">@drawable/ic_play</item>
+
+    </style>
+
+</resources>
